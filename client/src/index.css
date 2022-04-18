@@ -1,0 +1,13 @@
+.container {
+  max-block-size: 1000px;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+  padding-inline-start: 1rem;
+  padding-inline-end: 1rem;
+}
+
+.header .title {
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin-block-end: 2rem;
+}
