@@ -1,3 +1,7 @@
+# Description
+
+Dockerized Spring Boot backend with ReactJS frontend starter project
+
 # Prerequisites
 
 Docker is required

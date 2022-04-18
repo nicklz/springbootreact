@@ -6,6 +6,7 @@ up:
 	@echo "Starting up containers..."
 	docker-compose up -d
 	@echo "http://localhost:1337/"
+	chrome https://localhost:1337
 
 down:
 	@echo "Removing containers."
