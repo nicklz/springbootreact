@@ -12,7 +12,7 @@ class Footer extends Component {
   render() {
     return (
 
-      <LayoutFooter style={{ textAlign: 'center' }}>Powered by Spring and React</LayoutFooter>
+      <LayoutFooter style={{ textAlign: 'center' }}>Powered by Spring Boot and React</LayoutFooter>
 
     );
   }
